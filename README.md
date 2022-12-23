@@ -1,4 +1,4 @@
-# xcode-snippets
+# XcodeSnippets
 
 This repository contains Xcode code snippets that can be used to quickly insert helpful skeletons for common iOS patterns into your project.
 
@@ -30,7 +30,7 @@ For cells with multiple placeholders with the same name, use Option+Command+E to
 
 ## Contributing
 
-If you create your own snippets within Xcode and want to add them to this repo, run `./copy-snippets.sh -r`. This copies snippets from Xcode's default location to the folder where the script resides. 
+If you create your own snippets within Xcode and want to add them to your local copy of this repo, run `./copy-snippets.sh -r`. This copies snippets from Xcode's default location to the folder where the script resides. 
 
 Note that by default, the `.codesnippet` files are named and identified with UUIDs. It is recommended to rename them to be more descriptive before you commit.
 
